@@ -1,5 +1,5 @@
 # Ice
-> this is a implement by lex & yacc & llvm in this branch.
+> this is a implementation by lex & yacc & llvm in this branch.
 
 A funny language named Ice ( and only supports integer operations now ).
 
